@@ -1,13 +1,13 @@
 {
-  "main.css": "/repository-name/static/css/main.c03587ac.chunk.css",
-  "main.js": "/repository-name/static/js/main.0807723e.chunk.js",
-  "main.js.map": "/repository-name/static/js/main.0807723e.chunk.js.map",
-  "runtime~main.js": "/repository-name/static/js/runtime~main.f7634681.js",
-  "runtime~main.js.map": "/repository-name/static/js/runtime~main.f7634681.js.map",
-  "static/js/2.dc155f86.chunk.js": "/repository-name/static/js/2.dc155f86.chunk.js",
-  "static/js/2.dc155f86.chunk.js.map": "/repository-name/static/js/2.dc155f86.chunk.js.map",
-  "index.html": "/repository-name/index.html",
-  "precache-manifest.2d734fbe6f1337def2a921a6a2bd333f.js": "/repository-name/precache-manifest.2d734fbe6f1337def2a921a6a2bd333f.js",
-  "service-worker.js": "/repository-name/service-worker.js",
-  "static/css/main.c03587ac.chunk.css.map": "/repository-name/static/css/main.c03587ac.chunk.css.map"
+  "main.css": "/gastonsemanal/static/css/main.c03587ac.chunk.css",
+  "main.js": "/gastonsemanal/static/js/main.228bda1c.chunk.js",
+  "main.js.map": "/gastonsemanal/static/js/main.228bda1c.chunk.js.map",
+  "runtime~main.js": "/gastonsemanal/static/js/runtime~main.3bc3c99f.js",
+  "runtime~main.js.map": "/gastonsemanal/static/js/runtime~main.3bc3c99f.js.map",
+  "static/js/2.dc155f86.chunk.js": "/gastonsemanal/static/js/2.dc155f86.chunk.js",
+  "static/js/2.dc155f86.chunk.js.map": "/gastonsemanal/static/js/2.dc155f86.chunk.js.map",
+  "index.html": "/gastonsemanal/index.html",
+  "precache-manifest.9edfa06652f0a002ca0c86ff43437a4d.js": "/gastonsemanal/precache-manifest.9edfa06652f0a002ca0c86ff43437a4d.js",
+  "service-worker.js": "/gastonsemanal/service-worker.js",
+  "static/css/main.c03587ac.chunk.css.map": "/gastonsemanal/static/css/main.c03587ac.chunk.css.map"
 }
